@@ -41,7 +41,7 @@ List of all the Officially Supported Devices:
 | Xiaomi Redmi 3S               | land             | https://t.me/havoc_land            | https://t.me/Sairam60             |
 | Xiaomi Redmi 4 Prime          | markw            | https://t.me/havoc_markw           | https://t.me/ShihabZzz            |
 | Xiaomi Redmi 4X               | santoni          | https://t.me/havoc_santoni         | https://t.me/beingstargazer       |
-| Xiaomi Redmi 5 Plus           | vince            | https://t.me/havoc_vince           | http://t.me/blacksuan19           |
+| Xiaomi Redmi 5 Plus           | vince            | https://t.me/havoc_vince           | https://t.me/KenHV                |
 | Xiaomi Redmi 6 Pro            | sakura           | https://t.me/havoc_sakura          | https://t.me/mahajant99           |
 | Xiaomi Redmi 7                | onclite          | https://t.me/havoc_onclite         | https://t.me/XtremeQ              |
 | Xiaomi Redmi K20 Pro          | raphael          | https://t.me/havoc_raphael         | https://t.me/nuub1k               |
