@@ -33,6 +33,7 @@ List of all the Officially Supported Devices:
 | Xiaomi Mi 9T                  | davinci          | https://t.me/havoc_davinci         | https://t.me/mountaser_halak      |
 | Xiaomi Mi A1                  | tissot           | https://t.me/havoc_tissot          | https://t.me/mountaser_halak      |
 | Xiaomi Mi A2                  | jasmine_sprout   | https://t.me/havoc_jasmine_sprout  | https://t.me/SiddharthBharadwaj   |
+| Xiaomi Mi A2 Lite             | daisy            | https://t.me/havoc_daisy           | https://t.me/LuPeSolTec           |
 | Xiaomi Mi A3                  | laurel_sprout    | https://t.me/havoc_laurel_sprout   | https://t.me/prakaship78          |
 | Xiaomi Mi Mix                 | lithium          | https://t.me/havoc_lithium         | https://t.me/inkypen              |
 | Xiaomi Mi Mix 2               | chiron           | https://t.me/havoc_chiron          | https://t.me/lightvortex242       |
