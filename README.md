@@ -52,4 +52,7 @@ List of all the Officially Supported Devices:
 | Xiaomi Redmi Note 7           | lavender         | https://t.me/havoc_lavender        | http://t.me/Genkzsz11             |
 | Xiaomi Redmi Note 7 Pro       | violet           | https://t.me/havoc_violet          | https://t.me/athuld               |
 | Xiaomi Redmi S2               | ysl              | https://t.me/havoc_ysl             | https://t.me/mahajant99           |
-| Zuk Z2 Plus                   | z2_plus          | https://t.me/havoc_z2_plus         | https://t.me/nikhilgohil3         |
+| Zuk Z2 Plus                   | z2_plus          | https://t.me/havoc_9810            | https://t.me/nikhilgohil3         |
+| Samsung Galaxy S9             | starlte          | https://t.me/havoc_9180            | https://t.me/varunsoma            |
+| Samsung Galaxy S9 +           | star2lte         | https://t.me/havoc_9180            | https://t.me/varunsoma            |
+| Samsung Galaxy N9             | cronwlte         | https://t.me/havoc_9180            | https://t.me/varunsoma            |
