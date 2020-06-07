@@ -15,6 +15,7 @@ List of all the Officially Supported Devices:
 | Moto G7                       | River            | https://t.me/havoc_River           | https://t.me/SyberHexen           |
 | Moto G7 Power                 | ocean            | https://t.me/havoc_ocean           | https://t.me/Dark998              |
 | Moto X4                       | payton           | https://t.me/havoc_payton          | https://t.me/SyberHexen           |
+| Nexus 6P                      | angler           | https://t.me/havoc_angler          | https://t.me/roxxannee            |
 | OnePlus 3/T                   | oneplus3         | https://t.me/havoc_oneplus3        | https://t.me/SKULSHADY            |
 | OnePlus 5                     | cheeseburger     | https://t.me/havoc_oneplus5        | https://t.me/Tilaksid             |
 | OnePlus 5T                    | dumpling         | https://t.me/havoc_oneplus5        | https://t.me/Tilaksid             |
