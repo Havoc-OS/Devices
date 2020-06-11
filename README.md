@@ -27,6 +27,9 @@ List of all the Officially Supported Devices:
 | Realme XT                     | RMX1921          | https://t.me/havoc_RMX1921         | https://t.me/officialpro          |
 | Samsung Galaxy Note 3         | hlte             | https://t.me/havoc_hlte            | https://t.me/Jprimero15           |
 | Samsung Galaxy S5             | klte             | https://t.me/havoc_klte            | https://t.me/cnkzlyr              |
+| Samsung Galaxy S9             | starlte          | https://t.me/sexynos9810           | https://t.me/varunsoma            |
+| Samsung Galaxy S9+            | star2lte         | https://t.me/sexynos9810           | https://t.me/varunsoma            |
+| Samsung Galaxy Note 9         | crownlte         | https://t.me/sexynos9810           | https://t.me/varunsoma            |
 | Xiaomi Mi 6                   | sagit            | https://t.me/havoc_sagit           | https://t.me/EnderXH              |
 | Xiaomi Mi 8 Lite              | platina          | https://t.me/havoc_platina         | https://t.me/riquebarros17        |
 | Xiaomi Mi 8 SE                | sirius           | https://t.me/havoc_sirius          | https://t.me/dimasyudha           |
