@@ -42,6 +42,7 @@ List of all the Officially Supported Devices:
 | Xiaomi Mi A3                  | laurel_sprout    | https://t.me/havoc_laurel_sprout   | https://t.me/prakaship78          |
 | Xiaomi Mi Mix                 | lithium          | https://t.me/havoc_lithium         | https://t.me/inkypen              |
 | Xiaomi Mi Mix 2               | chiron           | https://t.me/havoc_chiron          | https://t.me/lightvortex242       |
+| Xiaomi Mi Mix 3 5G            | andromeda        | https://t.me/havoc_andromeda       | https://t.me/inkypen              |
 | Xiaomi Poco F1                | beryllium        | https://t.me/havoc_beryllium       | https://t.me/Reignz3              |
 | Xiaomi Poco X2                | phoenix          | https://t.me/havoc_phoenix         | https://t.me/blacksuan19          |
 | Xiaomi Redmi 3S               | land             | https://t.me/havoc_land            | https://t.me/Sairam60             |
