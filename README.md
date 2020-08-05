@@ -31,6 +31,9 @@ List of all the Officially Supported Devices:
 | Samsung Galaxy S8             | dreamlte         | https://t.me/havoc8895             | https://t.me/xEugW                |
 | Samsung Galaxy S8+            | dream2lte        | https://t.me/havoc8895             | https://t.me/xEugW                |
 | Samsung Galaxy Note 8         | greatlte         | https://t.me/havoc8895             | https://t.me/xEugW                |
+| Samsung Galaxy S9             | starlte          | https://t.me/havoc9810             | https://t.me/garett_09            |
+| Samsung Galaxy S9+            | star2lte         | https://t.me/havoc9810             | https://t.me/garett_09            |
+| Samsung Galaxy Note 9         | crownlte         | https://t.me/havoc9810             | https://t.me/garett_09            |
 | Xiaomi Mi 5X                  | tiffany          | https://t.me/havoc_tiffany         | https://t.me/blibwu               |
 | Xiaomi Mi 6                   | sagit            | https://t.me/havoc_sagit           | https://t.me/EnderXH              |
 | Xiaomi Mi 8 Lite              | platina          | https://t.me/havoc_platina         | https://t.me/riquebarros17        |
