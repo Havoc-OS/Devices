@@ -35,6 +35,7 @@ List of all the Officially Supported Devices:
 | Xiaomi Mi 6                   | sagit            | https://t.me/havoc_sagit           | https://t.me/EnderXH              |
 | Xiaomi Mi 8 Lite              | platina          | https://t.me/havoc_platina         | https://t.me/riquebarros17        |
 | Xiaomi Mi 8 SE                | sirius           | https://t.me/havoc_sirius          | https://t.me/dimasyudha           |
+| Xiaomi Mi 9                   | cepheus          | https://t.me/havoc_cepheus         | https://t.me/savsir               |
 | Xiaomi Mi 9T                  | davinci          | https://t.me/havoc_davinci         | https://t.me/mountaser_halak      |
 | Xiaomi Mi A1                  | tissot           | https://t.me/havoc_tissot          | https://t.me/mountaser_halak      |
 | Xiaomi Mi A2                  | jasmine_sprout   | https://t.me/havoc_jasmine_sprout  | https://t.me/SiddharthBharadwaj   |
