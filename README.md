@@ -68,4 +68,5 @@ List of all the Officially Supported Devices:
 | Xiaomi Redmi Note 7           | lavender         | https://t.me/havoc_lavender        | http://t.me/Genkzsz11             |
 | Xiaomi Redmi Note 7 Pro       | violet           | https://t.me/havoc_violet          | https://t.me/athuld               |
 | Xiaomi Redmi S2               | ysl              | https://t.me/havoc_ysl             | https://t.me/mahajant99           |
+| Xperia XZ1 Compact            | lilac            | https://t.me/havoc_lilac           | https://t.me/shank03              |
 | Zuk Z2 Plus                   | z2_plus          | https://t.me/havoc_z2_plus         | https://t.me/nikhilgohil3         |
