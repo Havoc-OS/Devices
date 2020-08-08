@@ -56,6 +56,8 @@ List of all the Officially Supported Devices:
 | Xiaomi Redmi Note 5 Pro       | whyred           | https://t.me/havocoswhyred         | https://t.me/notallowedontelegram |
 | Xiaomi Redmi Note 6 Pro       | tulip            | https://t.me/havoc_tulip           | https://t.me/akhilmsachu          |
 | Xiaomi Redmi Note 7           | lavender         | https://t.me/havoc_lavender        | http://t.me/Genkzsz11             |
+| Xiaomi Redmi Note 8           | ginkgo           | https://t.me/havoc_ginkgo          | http://t.me/SarisanSe             |
+| Xiaomi Redmi Note 8T          | willow           | https://t.me/havoc_ginkgo          | http://t.me/SarisanSe             |
 | Xiaomi Redmi Note 7 Pro       | violet           | https://t.me/havoc_violet          | https://t.me/athuld               |
 | Xiaomi Redmi S2               | ysl              | https://t.me/havoc_ysl             | https://t.me/mahajant99           |
 | Zuk Z2 Plus                   | z2_plus          | https://t.me/havoc_z2_plus         | https://t.me/nikhilgohil3         |
