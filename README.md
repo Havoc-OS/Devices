@@ -5,6 +5,7 @@ List of all the Officially Supported Devices:
 |-------------------------------|------------------|------------------------------------|-----------------------------------|
 | Asus ROG Phone II             | I001D            | https://t.me/havoc_I001D           | https://t.me/ComicoX              |
 | Asus Zenfone 6 (2019)         | I01WD            | https://t.me/havoc_I01WD           | https://t.me/ComicoX              |
+| Asus Zenfone Lite L1          | X00R             | https://t.me/havoc_X00R            | https://t.me/ishant86             |
 | Asus Zenfone Max Pro M1       | X00T             | https://t.me/havocX00T             | https://t.me/travarilo            |
 | Asus Zenfone Max Pro M2       | X01BD            | https://t.me/havoc_x01bd           | https://t.me/SonalSingh18         |
 | Google Pixel 3                | blueline         | https://t.me/havoc_crosshatch      | https://t.me/steveproski          |
