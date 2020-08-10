@@ -3,12 +3,12 @@ List of all the Officially Supported Devices:
 
 |         Device Name:          | Device Codename: |      Device Telegram Group:        |          Maintainer:              |
 |-------------------------------|------------------|------------------------------------|-----------------------------------|
+| Asus Zenfone 5(2018)          | X00QD            | https://t.me/havocX00QD            | https://t.me/edwardwu0223         |
+| Asus Zenfone 5Z               | Z01R             | https://t.me/havocZ01R             | https://t.me/edwardwu0223         |
 | Asus ROG Phone II             | I001D            | https://t.me/havoc_I001D           | https://t.me/ComicoX              |
 | Asus Zenfone 6 (2019)         | I01WD            | https://t.me/havoc_I01WD           | https://t.me/ComicoX              |
 | Asus Zenfone Max Pro M1       | X00T             | https://t.me/havocX00T             | https://t.me/travarilo            |
 | Asus Zenfone Max Pro M2       | X01BD            | https://t.me/havoc_x01bd           | https://t.me/SonalSingh18         |
-| Asus Zenfone 5(2018)          | X00QD            | https://t.me/havocX00QD            | https://t.me/edwardwu0223         |
-| Asus Zenfone 5Z               | Z01R             | https://t.me/havocZ01R             | https://t.me/edwardwu0223         |
 | Google Pixel 3                | blueline         | https://t.me/havoc_crosshatch      | https://t.me/steveproski          |
 | Google Pixel 3 XL             | crosshatch       | https://t.me/havoc_crosshatch      | https://t.me/steveproski          |
 | LG G6                         | lucye            | https://t.me/havoc_lucye           | https://t.me/wolfsvk              |
