@@ -60,14 +60,14 @@ List of all the Officially Supported Devices:
 | Xiaomi Redmi 3S               | land             | https://t.me/havoc_land            | https://t.me/Sairam60             |
 | Xiaomi Redmi 4 Prime          | markw            | https://t.me/havoc_markw           | https://t.me/ShihabZzz            |
 | Xiaomi Redmi 4X               | santoni          | https://t.me/havoc_santoni         | https://t.me/beingstargazer       |
-| Xiaomi Redmi 5A               | riva             | https://t.me/havoc_riva           | https://t.me/ErwinAbs            |
+| Xiaomi Redmi 5A               | riva             | https://t.me/havoc_riva            | https://t.me/ErwinAbs             |
 | Xiaomi Redmi 5 Plus           | vince            | https://t.me/havoc_vince           | https://t.me/KenHV                |
 | Xiaomi Redmi 6 Pro            | sakura           | https://t.me/havoc_sakura          | https://t.me/mahajant99           |
 | Xiaomi Redmi 7                | onclite          | https://t.me/havoc_onclite         | https://t.me/XtremeQ              |
 | Xiaomi Redmi K20 Pro          | raphael          | https://t.me/havoc_raphael         | https://t.me/nuub1k               |
 | Xiaomi Redmi Note 3           | kenzo            | https://t.me/havoc_kenzo           | https://t.me/Magicxavi            |
 | Xiaomi Redmi Note 4           | mido             | https://t.me/havoc_mido            | https://t.me/Sagarrokade006       |
-| Xiaomi Redmi Note 5A Lite     | ugglite          | https://t.me/havoc_ugglite         | https://t.me/fortifying           |
+| Xiaomi Redmi Note 5A          | ulysse           | https://t.me/havoc_ulysse          | https://t.me/fortifying           |
 | Xiaomi Redmi Note 5 Pro       | whyred           | https://t.me/havocoswhyred         | https://t.me/notallowedontelegram |
 | Xiaomi Redmi Note 6 Pro       | tulip            | https://t.me/havoc_tulip           | https://t.me/akhilmsachu          |
 | Xiaomi Redmi Note 7           | lavender         | https://t.me/havoc_lavender        | http://t.me/Genkzsz11             |
