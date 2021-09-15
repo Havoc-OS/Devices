@@ -1,3 +1,4 @@
+![Havoc Banner](https://github.com/SukeeratSG/dump-public/blob/iron/Assests/favicon.jpg)
 List of all the Officially Supported Devices : (+ GSI Variants)
 ----------------------------------------------------------------
 
