@@ -82,6 +82,7 @@ Xiaomi / Poco / Redmi
 | Xiaomi Mi11x/Poco F3/RedmiK40   | alioth             | https://t.me/havocalioth_in          | https://t.me/irongfly               |
 | Poco X3 Pro                     | vayu               | https://t.me/havocos_vayu            | https://t.me/rahul9999xda           |
 | Poco X3 (NFC)                   | surya              | https://t.me/havoc_surya             | https://t.me/mahajant99             |
+| Poco M2 Pro                     | gram               | https://t.me/havoc_gram              | https://t.me/NBD_ERICK              |
 | Xiaomi Poco F1                  | beryllium          | https://t.me/havoc_beryllium         | https://t.me/Reignz3                |
 | Xiaomi Poco X2                  | phoenix            | https://t.me/havoc_phoenix           | https://t.me/blacksuan19            |
 | Xiaomi Mi 6                     | sagit              | https://t.me/havoc_sagit             | https://t.me/EnderXH                |
