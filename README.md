@@ -38,6 +38,7 @@ Motorola
 | Moto G5S Plus                   | sanders            | https://t.me/havoc_sanders           | https://t.me/Ronax                  |
 | Moto G7                         | river              | https://t.me/havoc_River             | https://t.me/SyberHexen             |
 | Moto G7 Power                   | ocean              | https://t.me/havoc_ocean             | https://t.me/SyberHexen             |
+| Moto G7 Play                    | channel            | https://t.me/havoc_channel           | https://t.me/SyberHexen             |
 
 Nokia
 ------
