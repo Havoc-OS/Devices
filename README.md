@@ -53,8 +53,8 @@ Oneplus
 | Device Name:                    | Device Codename:   | Device Telegram Group:               | Maintainer:                         |
 |---------------------------------|--------------------|--------------------------------------|-------------------------------------|
 | OnePlus 3/T                     | oneplus3           | https://t.me/havoc_oneplus3          | https://t.me/SKULSHADY              |
-| OnePlus 6                       | enchilada          | https://t.me/havoc_oneplus6          | https://t.me/OptimussPriime         |
-| OnePlus 6T                      | fajita             | https://t.me/havoc_oneplus6          | https://t.me/OptimussPriime         |
+| OnePlus 6                       | enchilada          | https://t.me/havoc_oneplus6t          | https://t.me/OptimussPriime         |
+| OnePlus 6T                      | fajita             | https://t.me/havoc_oneplus6t          | https://t.me/OptimussPriime         |
 | OnePlus 7                       | guacamoleb         | https://t.me/havoc_oneplus7          | https://t.me/TheHunter08            |
 | OnePlus 7 PRO                   | guacamole          | https://t.me/havoc_oneplus7          | https://t.me/SKULSHADY              |
 | OnePlus 7T Pro                  | hotdog             | https://t.me/havoc_oneplus7          | https://t.me/SKULSHADY              |
