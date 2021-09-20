@@ -99,7 +99,7 @@ Xiaomi / Poco / Redmi
 | Xiaomi Redmi 4X                 | santoni            | https://t.me/havoc_santoni           | https://t.me/beingstargazer         |
 | Xiaomi Redmi 5 Plus             | vince              | https://t.me/havoc_vince             | https://t.me/KenHV                  |
 | Xiaomi Redmi 6 Pro              | sakura             | https://t.me/havoc_sakura            | https://t.me/mahajant99             |
-| Xiaomi Redmi 7                  | onclite            | https://t.me/havoc_onclite           | https://t.me/aryankaran_2004        |
+| Xiaomi Redmi 7                  | onclite            | https://t.me/havoc_os_onclite        | https://t.me/aryankaran_2004        |
 | Xiaomi Redmi K20 Pro            | raphael            | https://t.me/havoc_raphael           | https://t.me/nuub1k                 |
 | Xiaomi Redmi Note 3             | kenzo              | https://t.me/havoc_kenzo             | https://t.me/Magicxavi              |
 | Xiaomi Redmi Note 4             | mido               | https://t.me/havoc_mido              | https://t.me/NBD_ERICK              |
