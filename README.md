@@ -65,7 +65,7 @@ Oneplus
 | OnePlus 8 Pro                   | instantnoodlep     | https://t.me/havoc_oneplus8          | https://t.me/cjh1249131356          |
 
 
-Realme 
+Realme
 -------
 
 | Device Name:                    | Device Codename:   | Device Telegram Group:               | Maintainer:                         |
@@ -94,6 +94,7 @@ Xiaomi / Poco / Redmi
 | Xiaomi Mi A3                    | laurel_sprout      | https://t.me/havoc_laurel_sprout     | https://t.me/prakaship78            |
 | Xiaomi Mi Mix 3 5G              | andromeda          | https://t.me/havoc_andromeda         | https://t.me/inkypen                |
 | Xiaomi Mi 10T / 10T Pro         | apollo             | https://t.me/HavocOS_apollo          | https://t.me/sewa2k                 |
+| Xiaomi Mi Note 10 Lite          | toco               | https://t.me/HavocOS_toco            | https://t.me/DennisMurimiWachira    |
 | Xiaomi Redmi 3S                 | land               | https://t.me/havoc_land              | https://t.me/Sairam60               |
 | Xiaomi Redmi 4X                 | santoni            | https://t.me/havoc_santoni           | https://t.me/beingstargazer         |
 | Xiaomi Redmi 5 Plus             | vince              | https://t.me/havoc_vince             | https://t.me/KenHV                  |
@@ -134,7 +135,7 @@ Meizu
 | Meizu X8                        | m1852              | https://t.me/havoc16th               | https://t.me/blackrow67             |
 
 
-GSI 
+GSI
 -----
 
 | GSI Type:                       | Telegram Group:        | Maintainer:                          |
