@@ -111,6 +111,7 @@ Xiaomi / Poco / Redmi
 | Xiaomi Redmi Note 8             | ginkgo             | https://t.me/havoc_ginkgo            | https://t.me/SarisanSe              |
 | Xiaomi Redmi Note 10            | mojito	       | https://t.me/havoc_mojito            | https://t.me/mafiasupremacy	    |
 | XiaomiRN9(S/Pro/ProMax)PocoM2Pro| miatoll            | https://t.me/havoc_miatollofficial   | https://t.me/Sairam60               |
+| Xiaomi R (9T/N94G/9Power)Poco M3| juice	       | https://t.me/havoc_juice             | https://t.me/mafiasupremacy         |
 
 Sony 
 -----
