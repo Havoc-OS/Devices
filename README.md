@@ -109,9 +109,10 @@ Xiaomi / Poco / Redmi
 | Xiaomi Redmi Note 7             | lavender           | https://t.me/havoc_lavender          | http://t.me/Genkzsz11               |
 | Xiaomi Redmi Note 7 Pro         | violet             | https://t.me/havoc_violet            | https://t.me/athuld                 |
 | Xiaomi Redmi Note 8             | ginkgo             | https://t.me/havoc_ginkgo            | https://t.me/SarisanSe              |
+| Xiaomi Redmi Note 10            | mojito	       | https://t.me/havoc_mojito            | https://t.me/mafiasupremacy	    |
 | XiaomiRN9(S/Pro/ProMax)PocoM2Pro| miatoll            | https://t.me/havoc_miatollofficial   | https://t.me/Sairam60               |
 
-Sony  
+Sony 
 -----
 
 | Device Name:                    | Device Codename:   | Device Telegram Group:               | Maintainer:                         |
