@@ -21,7 +21,7 @@ Google
 | Device Name:                    | Device Codename:   | Device Telegram Group:               | Maintainer:                         |
 |---------------------------------|--------------------|--------------------------------------|-------------------------------------|
 | Google Pixel 2                  | walleye            | https://t.me/havoc_pixel2            | https://t.me/bravesoul349           |
-| Google Pixel 2XL                | taimen             | https://t.me/havoc_pixel2            | https://t.me/bravesoul349           |
+| Google Pixel 2 XL               | taimen             | https://t.me/havoc_pixel2            | https://t.me/bravesoul349           |
 
 LG
 ---
