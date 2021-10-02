@@ -107,7 +107,7 @@ Xiaomi / Poco / Redmi
 | Xiaomi Redmi Note 5A            | ulysse             | https://t.me/havoc_ulysse            | https://t.me/fortifying             |
 | Xiaomi Redmi Note 5 Pro         | whyred             | https://t.me/havocoswhyred           | https://t.me/notallowedontelegram   |
 | Xiaomi Redmi Note 6 Pro         | tulip              | https://t.me/havoc_tulip             | https://t.me/akhilmsachu            |
-| Xiaomi Redmi Note 7             | lavender           | https://t.me/havoc_lavender          | http://t.me/Genkzsz11               |
+| Xiaomi Redmi Note 7             | lavender           | https://t.me/havoc_lavender          | http://t.me/Hazama25                |
 | Xiaomi Redmi Note 7 Pro         | violet             | https://t.me/havoc_violet            | https://t.me/athuld                 |
 | Xiaomi Redmi Note 8             | ginkgo             | https://t.me/havoc_ginkgo            | https://t.me/SarisanSe              |
 | Xiaomi Redmi Note 10            | mojito	       | https://t.me/havoc_mojito            | https://t.me/mafiasupremacy	    |
