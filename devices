@@ -1,4 +1,10 @@
-GSI
+a64-ab
+a64-aonly
+arm-ab
+arm-aonly
+arm64-aonly
+arm64-ab
+arm64-aonly
 ginkgo
 markw
 mido
