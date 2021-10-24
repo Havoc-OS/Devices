@@ -12,6 +12,7 @@ Asus
 | Asus Zenfone Max Pro M2         | X01BD              | https://t.me/havoc_x01bd             | https://t.me/irongfly               |
 | Asus Zenfone 5(2018)            | X00QD              | https://t.me/havoc_X00QD             | https://t.me/edwardwu0223           |
 | Asus Zenfone 5Z                 | Z01R               | https://t.me/havoc_Z01R              | https://t.me/edwardwu0223           |
+| Asus Zenfone 7/7 Pro            | I002D              | https://t.me/havoc_I002D              | https://t.me/ComicoX                |
 | Asus ROG Phone II               | I001D              | https://t.me/havoc_I001D             | https://t.me/ComicoX                |
 | Asus Zenfone Max Pro M1         | X00T               | https://t.me/havocX00T               | https://t.me/travarilo              |
 
