@@ -60,9 +60,9 @@ Oneplus
 | OnePlus 7                       | guacamoleb         | https://t.me/havoc_oneplus7          | https://t.me/TheHunter08            |
 | OnePlus 7 PRO                   | guacamole          | https://t.me/havoc_oneplus7          | https://t.me/SKULSHADY              |
 | OnePlus 7T Pro                  | hotdog             | https://t.me/havoc_oneplus7          | https://t.me/SKULSHADY              |
-| OnePlus9R                       | lemonades          | https://t.me/havoc_oneplus8          | https://t.me/Chandu078              |
+| OnePlus9R                       | lemonades          | https://t.me/havoc_oneplus8          | https://t.me/Chandu_Dyavanapelli         |
 | OnePlus 8                       | instantnoodle      | https://t.me/havoc_oneplus8          | https://t.me/cjh1249131356          |
-| OnePlus 8T                      | kebab              | https://t.me/havoc_oneplus8          | https://t.me/Chandu078              |
+| OnePlus 8T                      | kebab              | https://t.me/havoc_oneplus8          | https://t.me/Chandu_Dyavanapelli           |
 | OnePlus 8 Pro                   | instantnoodlep     | https://t.me/havoc_oneplus8          | https://t.me/cjh1249131356          |
 
 
