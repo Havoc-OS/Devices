@@ -83,7 +83,7 @@ Xiaomi / Poco / Redmi
 | Xiaomi Mi Note 10 Lite           | toco             | https://t.me/Havoc_toco       | https://t.me/DennisMurimiWachira |
 | Xiaomi Redmi 4X                  | santoni          | https://t.me/havoc_santoni    | https://t.me/beingstargazer      |
 | Xiaomi Redmi 5 Plus              | vince            | https://t.me/havoc_vince      | Havoc OS CI                      |
-| Xiaomi Redmi 7                   | onclite          | https://t.me/havoc_os_onclite | https://t.me/aryankaran_2004     |
+| Xiaomi Redmi 7                   | onclite          | https://t.me/havoc_os_onclite | https://t.me/aryan_karan         |
 | Xiaomi Redmi K20 Pro             | raphael          | https://t.me/havoc_raphael    | https://t.me/irongfly            |
 | Xiaomi Redmi Note 5A             | ulysse           | https://t.me/havoc_ulysse     | https://t.me/fortifying          |
 | Xiaomi Redmi Note 6 Pro          | tulip            | https://t.me/havoc_tulip      | https://t.me/akhilmsachu         |
