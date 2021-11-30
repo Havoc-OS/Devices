@@ -56,7 +56,8 @@ Oneplus
 | OnePlus 8                       | instantnoodle      | https://t.me/havoc_oneplus8          | https://t.me/cjh1249131356          |
 | OnePlus 8T                      | kebab              | https://t.me/havoc_oneplus8          | https://t.me/Chandu_Dyavanapelli    |
 | OnePlus 8 Pro                   | instantnoodlep     | https://t.me/havoc_oneplus8          | https://t.me/cjh1249131356          |
-
+| OnePlus 9                       | lemonade           | https://t.me/havoc_oneplus9          | https://t.me/NeoTheSavage           |
+| OnePlus 9 Pro                   | lemonadep          | https://t.me/havoc_oneplus9          | https://t.me/NeoTheSavage           |
 
 Realme
 -------
