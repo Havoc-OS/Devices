@@ -69,7 +69,7 @@ Realme
 | Realme 5 Pro                    | RMX1971            | https://t.me/havoc_RMX1971           | https://t.me/Mxlfunction            |
 | Realme 6 (G90T Series)          | RMX2001            | https://t.me/havoc_RMX2001           | https://t.me/bx2nero                |
 | Realme 5 Series                 | R5x                | https://t.me/havoc_R5X               | https://t.me/iamlordutkarsh         |
-
+| Realme X2                       | X2                 | https://t.me/+f6fvNbV7pNtiMDZl       | https://t.me/ranacc1                |
 
 Xiaomi / Poco / Redmi  
 ---------------------
