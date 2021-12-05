@@ -9,71 +9,70 @@ Download Havoc-OS for your device from https://havoc-os.com
 Asus
 -----
 
-| Device Name:                    | Device Codename:   | Device Telegram Group:               | Maintainer:                         |
-|---------------------------------|--------------------|--------------------------------------|-------------------------------------|
-| Asus Zenfone 5Z                 | Z01R               | https://t.me/havoc_Z01R              | https://t.me/edwardwu0223           |
-| Asus Zenfone 7/7 Pro            | I002D              | https://t.me/havoc_I002D             | https://t.me/ComicoX                |
-| Asus Zenfone Max Pro M2          | X01BD            | https://t.me/havoc_x01bd      | https://t.me/irongfly            |
-
+| Device Name:                    | Device Codename:   | Device Telegram Group:                                       | Maintainer:                              |
+|---------------------------------|--------------------|--------------------------------------------------------------|------------------------------------------|
+| Asus Zenfone 5Z                 | Z01R               | [havoc Z01R(Under maintenance)](https://t.me/havoc_Z01R)     | [edwardwu0223](https://t.me/edwardwu0223)|
+| Asus Zenfone 7/7 Pro            | I002D              | [havoc I002D(Under maintenance)](https://t.me/havoc_I002D)   | [ComicoX](https://t.me/ComicoX)          |
+| Asus Zenfone Max Pro M2         | X01BD              | [havoc x01bd(Under maintenance)](https://t.me/havoc_x01bd)   | [irongfly](https://t.me/irongfly)        |
 
 Google
 ------
 
-| Device Name:                    | Device Codename:   | Device Telegram Group:               | Maintainer:                         |
-|---------------------------------|--------------------|--------------------------------------|-------------------------------------|
-| Google Pixel 2                  | walleye            | https://t.me/havoc_pixel2            | https://t.me/bravesoul349           |
-| Google Pixel 2 XL               | taimen             | https://t.me/havoc_pixel2            | https://t.me/bravesoul349           |
+| Device Name:                    | Device Codename:   | Device Telegram Group:                                       | Maintainer:                              |
+|---------------------------------|--------------------|--------------------------------------------------------------|------------------------------------------|
+| Google Pixel 2                  | walleye            | [havoc pixel2(Under maintenance)](https://t.me/havoc_pixel2) | [bravesoul349](https://t.me/bravesoul349)|
+| Google Pixel 2 XL               | taimen             | [havoc pixel2(Under maintenance)](https://t.me/havoc_pixel2) | [bravesoul349](https://t.me/bravesoul349)|
 
 Motorola
 ----------
 
-| Device Name:                    | Device Codename:   | Device Telegram Group:               | Maintainer:                         |
-|---------------------------------|--------------------|--------------------------------------|-------------------------------------|
-| Moto G7                         | river              | https://t.me/havoc_River             | https://t.me/SyberHexen             |
-| Moto G7 Power                   | ocean              | https://t.me/havoc_ocean             | https://t.me/SyberHexen             |
-| Moto G7 Play                    | channel            | https://t.me/havoc_channel           | https://t.me/SyberHexen             |
-| Moto G Power (2020)             | sofia              | https://t.me/+ioAiJwr1DKZiMjJl       | https://t.me/ph4n70m404             |
-| Moto G⁸ Power (2020)            | sofiar             | https://t.me/+ioAiJwr1DKZiMjJl       | https://t.me/ph4n70m404             |
-| Moto G Stylus/Moto G Pro (2020) | sofiap             | https://t.me/+ioAiJwr1DKZiMjJl       | https://t.me/ph4n70m404             |
-| Moto G⁸/Moto G Fast (2020)      | rav                | https://t.me/+ioAiJwr1DKZiMjJl       | https://t.me/ph4n70m404             |
+| Device Name:                    | Device Codename:   | Device Telegram Group:                                        | Maintainer:                             |
+|---------------------------------|--------------------|---------------------------------------------------------------|-----------------------------------------|
+| Moto G7                         | river              | [havoc river(Under maintenance)](https://t.me/havoc_River)    | [SyberHexen](https://t.me/SyberHexen)   |
+| Moto G7 Power                   | ocean              | [havoc ocean(Under maintenance)](https://t.me/havoc_ocean)    | [SyberHexen](https://t.me/SyberHexen)   |
+| Moto G7 Play                    | channel            | [havoc channel(Under maintenance)](https://t.me/havoc_channel)| [SyberHexen](https://t.me/SyberHexen)   |
+| Moto G Power (2020)             | sofia              | [Havoc-OS Rav/Sofia-R-P](https://t.me/+ioAiJwr1DKZiMjJl)      | [ph4n70m404](https://t.me/ph4n70m404)   |
+| Moto G⁸ Power (2020)            | sofiar             | [Havoc-OS Rav/Sofia-R-P](https://t.me/+ioAiJwr1DKZiMjJl)      | [ph4n70m404](https://t.me/ph4n70m404)   |
+| Moto G Stylus/Moto G Pro (2020) | sofiap             | [Havoc-OS Rav/Sofia-R-P](https://t.me/+ioAiJwr1DKZiMjJl)      | [ph4n70m404](https://t.me/ph4n70m404)   |
+| Moto G⁸/Moto G Fast (2020)      | rav                | [Havoc-OS Rav/Sofia-R-P](https://t.me/+ioAiJwr1DKZiMjJl)      | [ph4n70m404](https://t.me/ph4n70m404)   |
 
 Nokia
 ------
 
-| Device Name:                    | Device Codename:   | Device Telegram Group:               | Maintainer:                         |
-|---------------------------------|--------------------|--------------------------------------|-------------------------------------|
-| Nokia 8                         | NB1                | https://t.me/havoc_NB1               | https://t.me/edwardwu0223           |
+| Device Name:                    | Device Codename:   | Device Telegram Group:                                   | Maintainer:                                  |
+|---------------------------------|--------------------|----------------------------------------------------------|----------------------------------------------|
+| Nokia 8                         | NB1                | [havoc NB1(Under maintenance)](https://t.me/havoc_NB1)   | [edwardwu0223](https://t.me/edwardwu0223)    |
 
 
 Oneplus
 -------
 
-| Device Name:                    | Device Codename:   | Device Telegram Group:               | Maintainer:                         |
-|---------------------------------|--------------------|--------------------------------------|-------------------------------------|
-| OnePlus 3/T                     | oneplus3           | https://t.me/havoc_oneplus3          | https://t.me/SKULSHADY              |
-| OnePlus 6                       | enchilada          | https://t.me/havoc_oneplus6t         | https://t.me/OptimussPriime         |
-| OnePlus 6T                      | fajita             | https://t.me/havoc_oneplus6t         | https://t.me/OptimussPriime         |
-| OnePlus 7                       | guacamoleb         | https://t.me/havoc_oneplus7          | https://t.me/TheHunter08            |
-| OnePlus 7 Pro                   | guacamole          | https://t.me/havoc_oneplus7          | https://t.me/SKULSHADY              |
-| OnePlus 7T Pro                  | hotdog             | https://t.me/havoc_oneplus7          | https://t.me/SKULSHADY              |
-| OnePlus 8                       | instantnoodle      | https://t.me/havoc_oneplus8          | https://t.me/cjh1249131356          |
-| OnePlus 8 Pro                   | instantnoodlep     | https://t.me/havoc_oneplus8          | https://t.me/cjh1249131356          |
-| OnePlus 8T                      | kebab              | https://t.me/havoc_oneplus8          | https://t.me/Chandu_Dyavanapelli    |
-| OnePlus 9                       | lemonade           | https://t.me/havoc_oneplus9          | https://t.me/NeoTheSavage           |
-| OnePlus 9 Pro                   | lemonadep          | https://t.me/havoc_oneplus9          | https://t.me/NeoTheSavage           |
-| OnePlus 9R                      | lemonades          | https://t.me/havoc_oneplus8          | https://t.me/Chandu_Dyavanapelli    |
+| Device Name:          | Device Codename:   | Device Telegram Group:                                             | Maintainer:                                  |
+|-----------------------|--------------------|--------------------------------------------------------------------|----------------------------------------------|
+| OnePlus 3/T           | oneplus3           | [havoc oneplus3(Under maintenance)](https://t.me/havoc_oneplus3)   | [SKULSHADY](https://t.me/SKULSHADY)          |
+| OnePlus 6             | enchilada          | [havoc oneplus6t(Under maintenance)](https://t.me/havoc_oneplus6t) | [OptimussPriime](https://t.me/OptimussPriime)|
+| OnePlus 6T            | fajita             | [havoc oneplus6t(Under maintenance)](https://t.me/havoc_oneplus6t) | [OptimussPriime](https://t.me/OptimussPriime)|
+| OnePlus 7             | guacamoleb         | [havoc oneplus7(Under maintenance)](https://t.me/havoc_oneplus7)   | [TheHunter08](https://t.me/TheHunter08)      |
+| OnePlus 7 Pro         | guacamole          | [havoc oneplus7(Under maintenance)](https://t.me/havoc_oneplus7)   | [SKULSHADY](https://t.me/SKULSHADY)          |
+| OnePlus 7T Pro        | hotdog             | [havoc oneplus7(Under maintenance)](https://t.me/havoc_oneplus7)   | [SKULSHADY](https://t.me/SKULSHADY)          |
+| OnePlus 8             | instantnoodle      | [havoc oneplus8(Under maintenance)](https://t.me/havoc_oneplus8)   | [cjh1249131356](https://t.me/cjh1249131356)  |
+| OnePlus 8 Pro         | instantnoodlep     | [havoc oneplus8(Under maintenance)](https://t.me/havoc_oneplus8)   | [cjh1249131356](https://t.me/cjh1249131356)  |
+| OnePlus 8T            | kebab              | [havoc oneplus8(Under maintenance)](https://t.me/havoc_oneplus8)   | [Chandu_Dyavanapelli](https://t.me/Chandu_Dyavanapelli) |
+| OnePlus 9             | lemonade           | [havoc oneplus9(Under maintenance)](https://t.me/havoc_oneplus9)   | [NeoTheSavage](https://t.me/NeoTheSavage)    |
+| OnePlus 9 Pro         | lemonadep          | [havoc oneplus9(Under maintenance)](https://t.me/havoc_oneplus9)   | [NeoTheSavage](https://t.me/NeoTheSavage)    |
+| OnePlus 9R            | lemonades          | [havoc oneplus8(Under maintenance)](https://t.me/havoc_oneplus8)   | [Chandu_Dyavanapelli](https://t.me/Chandu_Dyavanapelli) |
 
 
 
 Realme
 -------
 
-| Device Name:                    | Device Codename:   | Device Telegram Group:               | Maintainer:                         |
-|---------------------------------|--------------------|--------------------------------------|-------------------------------------|
-| Realme 5 Pro                    | RMX1971            | https://t.me/havoc_RMX1971           | https://t.me/Mxlfunction            |
-| Realme 6 (G90T Series)          | RMX2001            | https://t.me/havoc_RMX2001           | https://t.me/bx2nero                |
-| Realme 5 Series                 | R5x                | https://t.me/havoc_R5X               | https://t.me/iamlordutkarsh         |
-| Realme X2                       | X2                 | https://t.me/+f6fvNbV7pNtiMDZl       | https://t.me/ranacc1                |
+| Device Name:               | Device Codename:   | Device Telegram Group:               | Maintainer:                         |
+|---------------------------|--------------------|--------------------------------------|-------------------------------------|
+| Realme 5 Pro              | RMX1971            | [havoc RMX1971(Under maintenance)](https://t.me/havoc_RMX1971) | [Mxlfunction](https://t.me/Mxlfunction)      |
+| Realme 6 (G90T Series)    | RMX2001            | [havoc RMX2001(Under maintenance)](https://t.me/havoc_RMX2001) | [bx2nero](https://t.me/bx2nero)              |
+| Realme 5 Series           | R5x                | [havoc R5X(Under maintenance)](https://t.me/havoc_R5X)         | [iamlordutkarsh](https://t.me/iamlordutkarsh)|
+| Realme X2                 | X2                 | [Havoc-OS Realme X2](https://t.me/+f6fvNbV7pNtiMDZl)           | [ranacc1](https://t.me/ranacc1)              |
 
 Xiaomi / Poco / Redmi  
 ---------------------
