@@ -32,6 +32,10 @@ Motorola
 | Moto G7                         | river              | https://t.me/havoc_River             | https://t.me/SyberHexen             |
 | Moto G7 Power                   | ocean              | https://t.me/havoc_ocean             | https://t.me/SyberHexen             |
 | Moto G7 Play                    | channel            | https://t.me/havoc_channel           | https://t.me/SyberHexen             |
+| Moto G Power (2020)             | sofia              | https://t.me/+ioAiJwr1DKZiMjJl       | https://t.me/ph4n70m404             |
+| Moto G⁸ Power (2020)            | sofiar             | https://t.me/+ioAiJwr1DKZiMjJl       | https://t.me/ph4n70m404             |
+| Moto G Stylus/Moto G Pro (2020) | sofiap             | https://t.me/+ioAiJwr1DKZiMjJl       | https://t.me/ph4n70m404             |
+| Moto G⁸/Moto G Fast (2020)      | rav                | https://t.me/+ioAiJwr1DKZiMjJl       | https://t.me/ph4n70m404             |
 
 Nokia
 ------
