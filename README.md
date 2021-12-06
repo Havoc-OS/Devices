@@ -93,6 +93,7 @@ Xiaomi / Poco / Redmi
 | Xiaomi Redmi Note 7              | lavender         | https://t.me/havoc_lavender   | http://t.me/Hazama25             |
 | Xiaomi Redmi Note 7 Pro          | violet           | https://t.me/havoc_violet     | https://t.me/athuld              |
 | Xiaomi Redmi Note 8              | ginkgo           | https://t.me/havoc_ginkgo     | Havoc OS CI                      |
+| Xiaomi Redmi Note 4              | mido             | https://t.me/havoc_mido       | https://t.me/Kevinfrostto
 | Xiaomi R (9T/N94G/9Power)Poco M3 | juice            | https://t.me/havoc_juice      | Havoc OS CI                      |
 | Xiaomi Redmi Note 10             | mojito           | https://t.me/havoc_mojito     | Havoc OS CI                      |
 | Xiaomi Redmi 3S                  | land             | https://t.me/havoc_land       | Havoc OS CI                      |
