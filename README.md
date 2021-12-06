@@ -67,8 +67,8 @@ Oneplus
 Realme
 -------
 
-| Device Name:               | Device Codename:   | Device Telegram Group:               | Maintainer:                         |
-|---------------------------|--------------------|--------------------------------------|-------------------------------------|
+| Device Name:              | Device Codename:   | Device Telegram Group:                                         | Maintainer:                                  |
+|---------------------------|--------------------|----------------------------------------------------------------|----------------------------------------------|
 | Realme 5 Pro              | RMX1971            | [havoc RMX1971(Under maintenance)](https://t.me/havoc_RMX1971) | [Mxlfunction](https://t.me/Mxlfunction)      |
 | Realme 6 (G90T Series)    | RMX2001            | [havoc RMX2001(Under maintenance)](https://t.me/havoc_RMX2001) | [bx2nero](https://t.me/bx2nero)              |
 | Realme 5 Series           | R5x                | [havoc R5X(Under maintenance)](https://t.me/havoc_R5X)         | [iamlordutkarsh](https://t.me/iamlordutkarsh)|
@@ -77,46 +77,46 @@ Realme
 Xiaomi / Poco / Redmi  
 ---------------------
 
-| Device Name:                     | Device Codename: | Device Telegram Group:        | Maintainer:                      |
-|----------------------------------|------------------|-------------------------------|----------------------------------|
-| Xiaomi Mi11x/Poco F3/RedmiK40    | alioth           | https://t.me/havocalioth_in   | https://t.me/irongfly            |
-| Poco X3 Pro                      | vayu             | https://t.me/havocos_vayu     | https://t.me/rahul9999xda        |
-| Poco X3 (NFC)                    | surya            | https://t.me/havoc_surya      | https://t.me/mahajant99          |
-| Xiaomi Poco X2                   | phoenix          | https://t.me/havoc_phoenix    | https://t.me/blacksuan19         |
-| Xiaomi Mi A2 Lite                | daisy            | https://t.me/havoc_daisy      | https://t.me/LuPeSolTec          |
-| Xiaomi Mi Mix 3 5G               | andromeda        | https://t.me/havoc_andromeda  | https://t.me/inkypen             |
-| Xiaomi Mi 10T / 10T Pro          | apollo           | https://t.me/HavocOS_apollo   | Havoc OS CI                      |
-| Xiaomi Mi Note 10 Lite           | toco             | https://t.me/Havoc_toco       | https://t.me/DennisMurimiWachira |
-| Xiaomi Redmi 4X                  | santoni          | https://t.me/havoc_santoni    | https://t.me/beingstargazer      |
-| Xiaomi Redmi 5 Plus              | vince            | https://t.me/havoc_vince      | Havoc OS CI                      |
-| Xiaomi Redmi 7                   | onclite          | https://t.me/havoc_os_onclite | https://t.me/aryan_karan         |
-| Xiaomi Redmi K20 Pro             | raphael          | https://t.me/havoc_raphael    | https://t.me/irongfly            |
-| Xiaomi Redmi Note 5A             | ulysse           | https://t.me/havoc_ulysse     | https://t.me/fortifying          |
-| Xiaomi Redmi Note 6 Pro          | tulip            | https://t.me/havoc_tulip      | https://t.me/akhilmsachu         |
-| Xiaomi Redmi Note 7              | lavender         | https://t.me/havoc_lavender   | http://t.me/Hazama25             |
-| Xiaomi Redmi Note 7 Pro          | violet           | https://t.me/havoc_violet     | https://t.me/athuld              |
-| Xiaomi Redmi Note 8              | ginkgo           | https://t.me/havoc_ginkgo     | Havoc OS CI                      |
-| Xiaomi R (9T/N94G/9Power)Poco M3 | juice            | https://t.me/havoc_juice      | Havoc OS CI                      |
-| Xiaomi Redmi Note 10             | mojito           | https://t.me/havoc_mojito     | Havoc OS CI                      |
-| Xiaomi Redmi 3S                  | land             | https://t.me/havoc_land       | Havoc OS CI                      |
-| Xiaomi Poco F1                   | beryllium        | https://t.me/havoc_beryllium  | Havoc OS CI                      |
+| Device Name:                     | Device Codename: | Device Telegram Group:                                            | Maintainer:                          |
+|----------------------------------|------------------|-------------------------------------------------------------------|---------------------------------------|
+| Xiaomi Mi11x/Poco F3/RedmiK40    | alioth           | [havoc alioth_in(Under maintenance)](https://t.me/havocalioth_in) | [irongfly](https://t.me/irongfly)    |
+| Poco X3 Pro                      | vayu             | [havoc vayu(Under maintenance)](https://t.me/havocos_vayu)        | [rahul9999xda](https://t.me/rahul9999xda) |
+| Poco X3 (NFC)                    | surya            | [havoc surya(Under maintenance)](https://t.me/havoc_surya)        | [mahajant99](https://t.me/mahajant99)|
+| Xiaomi Poco X2                   | phoenix          | [havoc phoenix(Under maintenance)](https://t.me/havoc_phoenix)    | [blacksuan19](https://t.me/blacksuan19) |
+| Xiaomi Mi A2 Lite                | daisy            | [havoc daisy(Under maintenance)](https://t.me/havoc_daisy)        | [LuPeSolTec](https://t.me/LuPeSolTec)|
+| Xiaomi Mi Mix 3 5G               | andromeda        | [havoc andromeda(Under maintenance)](https://t.me/havoc_andromeda)| [inkypen](https://t.me/inkypen)      |
+| Xiaomi Mi 10T / 10T Pro          | apollo           | [havoc apollo(Under maintenance)](https://t.me/HavocOS_apollo)    | Havoc OS CI                          |
+| Xiaomi Mi Note 10 Lite           | toco             | [havoc toco(Under maintenance)](https://t.me/Havoc_toco)          | [DennisMurimiWachira](https://t.me/DennisMurimiWachira) |
+| Xiaomi Redmi 4X                  | santoni          | [havoc santoni(Under maintenance)](https://t.me/havoc_santoni)    | [beingstargazer](https://t.me/beingstargazer)       |
+| Xiaomi Redmi 5 Plus              | vince            | [havoc vince(Under maintenance)](https://t.me/havoc_vince)        | Havoc OS CI                          |
+| Xiaomi Redmi 7                   | onclite          | [havoc onclite(Under maintenance)](https://t.me/havoc_os_onclite) | [aryan_karan](https://t.me/aryan_karan)|
+| Xiaomi Redmi K20 Pro             | raphael          | [havoc raphael(Under maintenance)](https://t.me/havoc_raphael)    | [irongfly](https://t.me/irongfly)    |
+| Xiaomi Redmi Note 5A             | ulysse           | [havoc ulysse(Under maintenance)](https://t.me/havoc_ulysse)      | [fortifying](https://t.me/fortifying)|
+| Xiaomi Redmi Note 6 Pro          | tulip            | [havoc tulip(Under maintenance)](https://t.me/havoc_tulip)        | [akhilmsachu](https://t.me/akhilmsachu) |
+| Xiaomi Redmi Note 7              | lavender         | [havoc lavender(Under maintenance)](https://t.me/havoc_lavender)  | [Hazama25](http://t.me/Hazama25)     |
+| Xiaomi Redmi Note 7 Pro          | violet           | [havoc violet(Under maintenance)](https://t.me/havoc_violet)      | [athuld](https://t.me/athuld) |
+| Xiaomi Redmi Note 8              | ginkgo           | [havoc ginkgo(Under maintenance)](https://t.me/havoc_ginkgo)      | Havoc OS CI                          |
+| Xiaomi R (9T/N94G/9Power)Poco M3 | juice            | [havoc juice(Under maintenance)](https://t.me/havoc_juice)        | Havoc OS CI                          |
+| Xiaomi Redmi Note 10             | mojito           | [havoc mojito(Under maintenance)](https://t.me/havoc_mojito)      | Havoc OS CI                          |
+| Xiaomi Redmi 3S                  | land             | [havoc land(Under maintenance)](https://t.me/havoc_land)          | Havoc OS CI                          |
+| Xiaomi Poco F1                   | beryllium        | [havoc beryllium(Under maintenance)](https://t.me/havoc_beryllium)| Havoc OS CI                          |
 
 
 Sony
 -----
 
-| Device Name:                    | Device Codename:   | Device Telegram Group:               | Maintainer:                         |
-|---------------------------------|--------------------|--------------------------------------|-------------------------------------|
-| Xperia XZ1 Compact              | lilac              | https://t.me/havoc_lilac             | https://t.me/shank03                |
+| Device Name:                    | Device Codename:   | Device Telegram Group:                                     | Maintainer:                         |
+|---------------------------------|--------------------|------------------------------------------------------------|-------------------------------------|
+| Xperia XZ1 Compact              | lilac              | [havoc lilac(Under maintenance)](https://t.me/havoc_lilac) | [shank03](https://t.me/shank03)     |
 
 GSI
 -----
 
-| GSI Type:   | Telegram Group:        | Maintainer: |
-|-------------|------------------------|-------------|
-| ARM-AB      | https://t.me/havoc_gsi | Havoc OS CI |
-| A64-AB      | https://t.me/havoc_gsi | Havoc OS CI |
-| ARM-Aonly   | https://t.me/havoc_gsi | Havoc OS CI |
-| ARM64-Aonly | https://t.me/havoc_gsi | Havoc OS CI |
-| ARM64-AB    | https://t.me/havoc_gsi | Havoc OS CI |
-| A64-Aonly   | https://t.me/havoc_gsi | Havoc OS CI |
+| GSI Type:   | Telegram Group:                                        | Maintainer: |
+|-------------|--------------------------------------------------------|-------------|
+| ARM-AB      | [havoc gsi(Under maintenance)](https://t.me/havoc_gsi) | Havoc OS CI |
+| A64-AB      | [havoc gsi(Under maintenance)](https://t.me/havoc_gsi) | Havoc OS CI |
+| ARM-Aonly   | [havoc gsi(Under maintenance)](https://t.me/havoc_gsi) | Havoc OS CI |
+| ARM64-Aonly | [havoc gsi(Under maintenance)](https://t.me/havoc_gsi) | Havoc OS CI |
+| ARM64-AB    | [havoc gsi(Under maintenance)](https://t.me/havoc_gsi) | Havoc OS CI |
+| A64-Aonly   | [havoc gsi(Under maintenance)](https://t.me/havoc_gsi) | Havoc OS CI |
