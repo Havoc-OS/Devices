@@ -50,8 +50,8 @@ Oneplus
 | Device Name:          | Device Codename:   | Device Telegram Group:                                             | Maintainer:                                  |
 |-----------------------|--------------------|--------------------------------------------------------------------|----------------------------------------------|
 | OnePlus 3/T           | oneplus3           | [Havoc oneplus3(Moving groups)](https://t.me/havoc_oneplus3)   | [SKULSHADY](https://t.me/SKULSHADY)          |
-| OnePlus 6             | enchilada          | [Havoc oneplus6t(Moving groups)](https://t.me/havoc_oneplus6t) | [OptimussPriime](https://t.me/OptimussPriime)|
-| OnePlus 6T            | fajita             | [Havoc oneplus6t(Moving groups)](https://t.me/havoc_oneplus6t) | [OptimussPriime](https://t.me/OptimussPriime)|
+| OnePlus 6             | enchilada          | [Havoc oneplus6t(Moving groups)](https://t.me/+tNPSDUw3FUJlNDQ1) | [OptimussPriime](https://t.me/OptimussPriime)|
+| OnePlus 6T            | fajita             | [Havoc oneplus6t(Moving groups)](https://t.me/+tNPSDUw3FUJlNDQ1) | [OptimussPriime](https://t.me/OptimussPriime)|
 | OnePlus 7             | guacamoleb         | [Havoc oneplus7(Moving groups)](https://t.me/havoc_oneplus7)   | [TheHunter08](https://t.me/TheHunter08)      |
 | OnePlus 7 Pro         | guacamole          | [Havoc oneplus7(Moving groups)](https://t.me/havoc_oneplus7)   | [SKULSHADY](https://t.me/SKULSHADY)          |
 | OnePlus 7T Pro        | hotdog             | [Havoc oneplus7(Moving groups)](https://t.me/havoc_oneplus7)   | [SKULSHADY](https://t.me/SKULSHADY)          |
