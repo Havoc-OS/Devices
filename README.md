@@ -85,6 +85,7 @@ Xiaomi / Poco / Redmi
 | Poco X3 (NFC)                    | surya            | [Havoc surya(Moving groups)](https://t.me/havoc_surya)        | [mahajant99](https://t.me/mahajant99)|
 | Xiaomi Poco X2                   | phoenix          | [Havoc phoenix(Moving groups)](https://t.me/havoc_phoenix)    | [blacksuan19](https://t.me/blacksuan19) |
 | Xiaomi Mi A2 Lite                | daisy            | [Havoc daisy(Moving groups)](https://t.me/havoc_daisy)        | [LuPeSolTec](https://t.me/LuPeSolTec)|
+| Xiaomi Mi 6                      | sagit            | [Havoc sagit](https://t.me/+R_kRbsIJOoIQTr5h)                 | [Den Chornyi](https://t.me/DuumXH)   |
 | Xiaomi Mi Mix 3 5G               | andromeda        | [Havoc andromeda(Moving groups)](https://t.me/havoc_andromeda)| [inkypen](https://t.me/inkypen)      |
 | Xiaomi Mi Note 10 Lite           | toco             | [Havoc toco(Moving groups)](https://t.me/Havoc_toco)          | [DennisMurimiWachira](https://t.me/DennisMurimiWachira) |
 | Xiaomi Redmi 4X                  | santoni          | [havoc santoni(Moving groups)](https://t.me/Havoc_santoni)    | [beingstargazer](https://t.me/beingstargazer)       |
