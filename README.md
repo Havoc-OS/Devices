@@ -58,8 +58,8 @@ Oneplus
 | OnePlus 8             | instantnoodle      | [Havoc oneplus8(Moving groups)](https://t.me/havoc_oneplus8)   | [cjh1249131356](https://t.me/cjh1249131356)  |
 | OnePlus 8 Pro         | instantnoodlep     | [Havoc oneplus8(Moving groups)](https://t.me/havoc_oneplus8)   | [cjh1249131356](https://t.me/cjh1249131356)  |
 | OnePlus 8T            | kebab              | [Havoc oneplus8(Moving groups)](https://t.me/havoc_oneplus8)   | [Chandu_Dyavanapelli](https://t.me/Chandu_Dyavanapelli) |
-| OnePlus 9             | lemonade           | [Havoc oneplus9(Moving groups)](https://t.me/havoc_oneplus9)   | [NeoTheSavage](https://t.me/NeoTheSavage)    |
-| OnePlus 9 Pro         | lemonadep          | [Havoc oneplus9(Moving groups)](https://t.me/havoc_oneplus9)   | [NeoTheSavage](https://t.me/NeoTheSavage)    |
+| OnePlus 9             | lemonade           | [Havoc oneplus9(Moving groups)](https://t.me/+FvLXPPdULWljZTVh)   | [NeoTheSavage](https://t.me/NeoTheSavage)    |
+| OnePlus 9 Pro         | lemonadep          | [Havoc oneplus9(Moving groups)](https://t.me/+FvLXPPdULWljZTVh)   | [NeoTheSavage](https://t.me/NeoTheSavage)    |
 | OnePlus 9R            | lemonades          | [Havoc oneplus8(Moving groups)](https://t.me/havoc_oneplus8)   | [Chandu_Dyavanapelli](https://t.me/Chandu_Dyavanapelli) |
 
 
