@@ -69,7 +69,7 @@ Realme
 
 | Device Name:              | Device Codename:   | Device Telegram Group:                                         | Maintainer:                                  |
 |---------------------------|--------------------|----------------------------------------------------------------|----------------------------------------------|
-| Realme 5 Pro              | RMX1971            | [Havoc RMX1971(Moving groups)](https://t.me/havoc_RMX1971) | [Mxlfunction](https://t.me/Mxlfunction)      |
+| Realme 5 Pro              | RMX1971            | [Havoc RMX1971(Moving groups)](https://t.me/+_O867uFgtt8xNTQ1) | [Mxlfunction](https://t.me/Mxlfunction)      |
 | Realme 6 (G90T Series)    | RMX2001            | [Havoc RMX2001(Moving groups)](https://t.me/havoc_RMX2001) | [bx2nero](https://t.me/bx2nero)              |
 | Realme 5 Series           | R5x                | [Havoc R5X(Moving groups)](https://t.me/havoc_R5X)         | [iamlordutkarsh](https://t.me/iamlordutkarsh)|
 | Realme X2                 | X2                 | [Havoc Realme X2](https://t.me/+f6fvNbV7pNtiMDZl)           | [ranacc1](https://t.me/ranacc1)              |
