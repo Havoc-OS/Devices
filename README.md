@@ -93,7 +93,7 @@ Visit https://t.me/havocofficial for Technical Support
 | Xiaomi Poco F1                                  | beryllium       | Havoc-OS CI                                             |
 | Xiaomi Poco X2                                  | phoenix         | [blacksuan19](https://t.me/blacksuan19)                 |
 | Xiaomi Poco X3 NFC                              | surya           | [mahajant99](https://t.me/mahajant99)                   |
-| Xiaomi Poco X3 Pro                              | vayu            | [rahul9999xda](https://t.me/rahul9999xda)               |
+| Xiaomi Poco X3 Pro                              | vayu            | [Alisson Grizotti](https://t.me/bagualisson)            |
 | Xiaomi Redmi 3S / 3X                            | land            | Havoc-OS CI                                             |
 | Xiaomi Redmi 4 / 4X                             | santoni         | [beingstargazer](https://t.me/beingstargazer)           |
 | Xiaomi Redmi 5 Plus                             | vince           | Havoc-OS CI                                             |
