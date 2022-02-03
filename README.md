@@ -107,3 +107,4 @@ Visit https://t.me/havocofficial for Technical Support
 | Xiaomi Redmi Note 7 Pro                         | violet          | [athuld](https://t.me/athuld)                           |
 | Xiaomi Redmi Note 8                             | ginkgo          | Havoc-OS CI                                             |
 | Xiaomi Redmi Note 10                            | mojito          | Havoc-OS CI                                             |
+| Xiaomi Redmi Note 10 Pro                        | sweet           | [ParasDhiman](https://t.me/Ken_kaneki_69)                |
