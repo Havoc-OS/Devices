@@ -99,7 +99,6 @@ Visit https://t.me/havocofficial for Technical Support
 | Xiaomi Redmi 4 / 4X                             | santoni         | [beingstargazer](https://t.me/beingstargazer)           |
 | Xiaomi Redmi 5 Plus                             | vince           | Havoc-OS CI                                             |
 | Xiaomi Redmi 7                                  | onclite         | [aryan_karan](https://t.me/aryan_karan)                 |
-| Xiaomi Redmi 8                                  | olive           | [deadlylxrd](https://t.me/deadlylxrd)                   |
 | Xiaomi Redmi 9T / 9 Power / Note 9 4G / Poco M3 | juice           | [mafiasupremacy](https://t.me/mafiasupremacy)           |
 | Xiaomi Redmi K20 Pro                            | raphael         | [irongfly](https://t.me/irongfly)                       |
 | Xiaomi Redmi Note 4                             | mido            | [Kevin frost](https://t.me/Kevinfrostto)                |
@@ -108,4 +107,5 @@ Visit https://t.me/havocofficial for Technical Support
 | Xiaomi Redmi Note 7 Pro                         | violet          | [athuld](https://t.me/athuld)                           |
 | Xiaomi Redmi Note 8                             | ginkgo          | Havoc-OS CI                                             |
 | Xiaomi Redmi Note 10                            | mojito          | Havoc-OS CI                                             |
-| Xiaomi Redmi Note 10 Pro                        | sweet           | [ParasDhiman](https://t.me/Ken_kaneki_69)                |
+| Xiaomi Redmi Note 10 Pro                        | sweet           | [ParasDhiman](https://t.me/Ken_kaneki_69)               |
+| Xiaomi 439 devices                              | Mi439           | [deadlylxrd](https://t.me/deadlylxrd)                   |
