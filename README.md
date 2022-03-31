@@ -35,13 +35,16 @@ Visit https://t.me/havocofficial for Technical Support
 
 | Device Name                                | Device Codename | Maintainer                            |
 | ------------------------------------------ | --------------- | ------------------------------------- |
+| Motorola Moto Edge (2020)                  | racer           | [SyberHexen](https://t.me/SyberHexen) |
+| Motorola Moto G 5G / Moto One G 5G Ace     | kiev            | [SyberHexen](https://t.me/SyberHexen) |
+| Motorola Moto G 5G Plus / Moto One 5G      | nairo           | [SyberHexen](https://t.me/SyberHexen) |
 | Motorola Moto G7                           | river           | [SyberHexen](https://t.me/SyberHexen) |
 | Motorola Moto G7 Play                      | channel         | [SyberHexen](https://t.me/SyberHexen) |
 | Motorola Moto G7 Power                     | ocean           | [SyberHexen](https://t.me/SyberHexen) |
-| Motorola Moto G Power (2020)               | sofia           | [ph4n70m404](https://t.me/ph4n70m404) |
-| Motorola Moto G8 Power (2020)              | sofiar          | [ph4n70m404](https://t.me/ph4n70m404) |
-| Motorola Moto G Stylus / Moto G Pro (2020) | sofiap          | [ph4n70m404](https://t.me/ph4n70m404) |
 | Motorola Moto G8 / Moto G Fast (2020)      | rav             | [ph4n70m404](https://t.me/ph4n70m404) |
+| Motorola Moto G8 Power (2020)              | sofiar          | [ph4n70m404](https://t.me/ph4n70m404) |
+| Motorola Moto G Power (2020)               | sofia           | [ph4n70m404](https://t.me/ph4n70m404) |
+| Motorola Moto G Stylus / Moto G Pro (2020) | sofiap          | [ph4n70m404](https://t.me/ph4n70m404) |
 
 ## Nokia
 
