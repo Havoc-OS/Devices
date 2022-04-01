@@ -16,7 +16,7 @@ Visit https://t.me/havocofficial for Technical Support
 | ASUS Zenfone 5Z         | Z01R            | [edwardwu0223](https://t.me/edwardwu0223) |
 | ASUS Zenfone 7 / 7 Pro | I002D | [ComicoX](https://t.me/ComicoX) |
 | ASUS Zenfone Max Pro M2 | X01BD           | [irongfly](https://t.me/irongfly)         |
-| ASUS Zenfone Max Pro M1 | X00TD           | [irongfly](https://t.me/irongfly)         |
+| ASUS Zenfone Max Pro M1 | X00TD           | [AT WORLD](https://t.me/ATANYTHING)         |
 
 ## Google
 
