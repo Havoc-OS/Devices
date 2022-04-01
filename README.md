@@ -107,6 +107,7 @@ Visit https://t.me/havocofficial for Technical Support
 | Xiaomi Redmi Note 4                             | mido            | [Kevin frost](https://t.me/Kevinfrostto)                |
 | Xiaomi Redmi Note 5A                            | ulysse          | [fortifying](https://t.me/fortifying)                   |
 | Xiaomi Redmi Note 6 Pro                         | tulip           | [akhilmsachu](https://t.me/akhilmsachu)                 |
+| Xiaomi Redmi Note 7                             | lavender        | [Vitor Leal](https://t.me/bitortheaddicted)             |
 | Xiaomi Redmi Note 7 Pro                         | violet          | [athuld](https://t.me/athuld)                           |
 | Xiaomi Redmi Note 8                             | ginkgo          | Havoc-OS CI                                             |
 | Xiaomi Redmi Note 10                            | mojito          | Havoc-OS CI                                             |
