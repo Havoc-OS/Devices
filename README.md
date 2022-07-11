@@ -28,7 +28,8 @@ Visit https://t.me/havocofficial for Technical Support
 | OnePlus 3 / 3T | oneplus3        | [SKULSHADY](https://t.me/SKULSHADY)                     |
 | OnePlus 7 Pro  | guacamole       | [SKULSHADY](https://t.me/SKULSHADY)                     |
 | OnePlus 7T Pro | hotdog          | [SKULSHADY](https://t.me/SKULSHADY)                     |
-
+| OnePlus 6      | enchilada       | [OptimussPriime](https://t.me/OptimussPriime)           |
+| OnePlus 6T     | fajita          | [OptimussPriime](https://t.me/OptimussPriime)           |     
 
 ## Xiaomi
 
