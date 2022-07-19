@@ -39,6 +39,7 @@ Visit https://t.me/havocofficial for Technical Support
 | Xiaomi Redmi K20 Pro                            | raphael         | [irongfly](https://t.me/irongfly)                       |
 | Xiaomi Redmi Note 7                             | lavender        | [Vitor Leal](https://t.me/bitortheaddicted)             |
 | Xiaomi Poco X3 / NFC                            | surya           | [Tushar Mahajan](https://t.me/mahajant99)               |
+| Xiaomi mi 11x / poco F3 / k40                   | alioth          | [revolwoc](https://t.me/revolwoc)                       |
 
 ## Sony
 
