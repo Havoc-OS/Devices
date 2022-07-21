@@ -40,6 +40,7 @@ Visit https://t.me/havocofficial for Technical Support
 | Xiaomi Redmi Note 7                             | lavender        | [Vitor Leal](https://t.me/bitortheaddicted)             |
 | Xiaomi Poco X3 / NFC                            | surya           | [Tushar Mahajan](https://t.me/mahajant99)               |
 | Xiaomi mi 11x / Poco F3 / Redmi K40             | alioth          | [revolwoc](https://t.me/revolwoc)                       |
+| Xiaomi Mi A2 Lite                               | daisy           | [LuPe] (https://t.me/LuPeSolTec)                        |
 
 ## Sony
 
