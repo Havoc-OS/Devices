@@ -1,6 +1,6 @@
 <h3 align="center"><img src="https://github.com/SukeeratSG/dump-public/blob/iron/Assets/havoc_favicon.svg" width="20%" height="20%"></h3>
 <h1 align="center">Havoc-OS Official Devices</h1>
-<h1 align="center">Android 11 LTS (Long Term Support)</h1>
+<h1 align="center">Android 12</h1>
 <br>
 
 Havoc-OS is available in 2 variants: Vanilla (ROM + Stock AOSP Apps), GApps (ROM + Google Apps)
