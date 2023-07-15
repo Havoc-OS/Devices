@@ -9,6 +9,11 @@ Download Havoc-OS for your device from https://havoc-os.com
 
 Visit https://t.me/havocofficial for Technical Support
 
+## ASUS
+
+| Device Name             | Device Codename | Maintainer                                |
+| ----------------------- | --------------- | ----------------------------------------- |
+| ASUS Zenfone Max Pro M1 | X00TD           | [AT WORLD](https://t.me/ATANYTHING)       |
 
 ## Motorola
 
