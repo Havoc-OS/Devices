@@ -15,10 +15,12 @@ Visit https://t.me/havocofficial for Technical Support
 | Device Name                                | Device Codename | Maintainer                            |
 | ------------------------------------------ | --------------- | ------------------------------------- |
 | Motorola Moto Edge (2020)                  | racer           | [SyberHexen](https://t.me/SyberHexen) |
+| Motorola Moto Edge (2021)                  | berlna          | [SyberHexen](https://t.me/SyberHexen) |
 | Motorola Moto G 5G / Moto One G 5G Ace     | kiev            | [SyberHexen](https://t.me/SyberHexen) |
 | Motorola Moto G 5G Plus / Moto One 5G      | nairo           | [SyberHexen](https://t.me/SyberHexen) |
 | Motorola Moto G7                           | river           | [SyberHexen](https://t.me/SyberHexen) |
 | Motorola Moto G7 Power                     | ocean           | [SyberHexen](https://t.me/SyberHexen) |
+| Motorola Moto G7 Play                      | channel         | [SyberHexen](https://t.me/SyberHexen) |
 
 ## OnePlus
 
