@@ -48,6 +48,7 @@ Visit https://t.me/havocofficial for Technical Support
 | Xiaomi Poco X3 / NFC                            | surya           | [Tushar Mahajan](https://t.me/mahajant99)               |
 | Xiaomi mi 11x / Poco F3 / Redmi K40             | alioth          | [revolwoc](https://t.me/revolwoc)                       |
 | Xiaomi Mi A2 Lite                               | daisy           | [LuPe](https://t.me/LuPeSolTec)                        |
+| Xiaomi Mi Note 10 Lite                          | toco            | [Dennis Murimi](https://t.me/DennisMurimiWachira)       |
 
 ## Sony
 
